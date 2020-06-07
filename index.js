@@ -1,7 +1,7 @@
 const Discord = require('discord.js');
 const bot = new Discord.Client();
 
-const token = 'NzA0NTkxNDI3NTk3NzYyNjMw.Xtx7cg.tKSXqm82gS8semArYlqjNdyQAEU';
+const token = 'NzA0NTkxNDI3NTk3NzYyNjMw.XtyE_w.VPVnde8N4SmRUCX1i9sS1Wi9-BA';
 
 bot.on('ready', () =>{
     console.log('BAKAbot has awoken!')
