@@ -1,0 +1,2 @@
+# BAKAbot
+A Discord Bot
